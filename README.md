@@ -2,6 +2,16 @@
 
 ## OVERVIEW
 
+This __________ contains all the relevant files and ___ used in the design and developement of ________ for MUSC 419 project 1
+
+|TEMP|TEMP|
+|----|----|
+|DATE|TEMP|
+|DATE|TEMP|
+|DATE|TEMP|
+|DATE|TEMP|
+|DATE|TEMP|
+
 ## CONCEPT
 
 ## TECHNICAL METHODOLOGY

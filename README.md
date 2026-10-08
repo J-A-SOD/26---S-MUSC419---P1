@@ -4,13 +4,13 @@
 
 This __________ contains all the relevant files and ___ used in the design and developement of ________ for MUSC 419 project 1
 
-|TEMP|TEMP|
+|INFO|TEXT|
 |----|----|
+|PROJECT NAME|TEMP|
+|COURSE|TEMP|
 |DATE|TEMP|
-|DATE|TEMP|
-|DATE|TEMP|
-|DATE|TEMP|
-|DATE|TEMP|
+|TEMP|TEMP|
+|TEMP|TEMP|
 
 ## CONCEPT
 

@@ -43,3 +43,13 @@ Include a **maximum two-page write-up** containing:
 - **Technical methodology** — an explanation of how the interactive system works, including the sensor data used and how it is mapped to the visual system.
 - **Performance checklist** — a step-by-step procedure for setting up, testing, and running the work so that the performance can be reliably reproduced.
 - **AI involvement** — if AI was used, describe how it was used and how it contributed to the project.
+
+LH
+z - tempo
+x - arp - volume + effect
+y - vst effect - jaw
+
+RH
+z - chord 
+x - ambience reverb - pistons
+y - beat/something - gears

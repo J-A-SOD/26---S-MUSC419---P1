@@ -4,20 +4,25 @@
 
 This __________ contains all the relevant files and ___ used in the design and developement of ________ for MUSC 419 project 1
 
-|INFO|TEXT|
+|PROJECT DETAIL|DESCRIPTION|
 |----|----|
 |PROJECT NAME|TEMP|
-|COURSE|TEMP|
-|DATE|TEMP|
-|TEMP|TEMP|
-|TEMP|TEMP|
+|COMPLETED FOR|MUSC 419|
+|TYPOLOGY|XXXXXXXXX|
+|DATE PRESETED|TEMP|
+|PROJECT TIME FRAME|TEMP|
 
-Files used in the process of creating the project are located in the 'dev' folder, which contains ______
-
+Files used in the process of creating the project are located in the 'dev' folder, which contains images, .blend files and other preliminary or process work.
 
 ## CONCEPT
 
 ## TECHNICAL METHODOLOGY
+
+__ consists of _
+
+--Put little flowchart diagram here--
+
+
 
 ### FUNCTIONAL OVERVIEW
 

@@ -53,7 +53,7 @@ For this section; x = horizontal (left/right), y = depth (forward/backwards), z 
 |Hand L - y|Gear spin speed and lighting|Arpeggiator volume|
 |Hand R - x|'Jaw' openness|Ambience volume|
 |Hand R - y|Clock animation speed and lighting|Global audio speed and volume|
-=
+
 
 ## PERFORMANCE CHECKLIST
 

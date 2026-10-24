@@ -59,7 +59,7 @@ For this section; x = horizontal (left/right), y = depth (forward/backwards), z 
 
 ### SETUP
 
-1. Download the complete zip file from github [here](https://github.com/J-A-SOD/P1---MUSC419)
+1. Download the complete zip file from github [here](https://github.com/J-A-SOD/P1---MUSC419/releases)
 2. Extract the zip file and its contents
 3. Plug in the leap motion sensor, orienting it with the green light facing the performer
 4. Make sure your computers audio device is set to the correct option relevant to your performance needs or location

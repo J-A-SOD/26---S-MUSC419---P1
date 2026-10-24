@@ -74,14 +74,3 @@ Using the mapped inputs, control the various audio,visual parameters and effects
 The series of motions used in the initial performance are as follows:
 
 ![Diagram](./dev/diagram.png)
-
-## DISCLAIMERS & CREDITS
-
-
-
-Include a **maximum two-page write-up** containing:
-
-- **Concept** — a brief description of the artistic concept and approach.
-- **Technical methodology** — an explanation of how the interactive system works, including the sensor data used and how it is mapped to the visual system.
-- **Performance checklist** — a step-by-step procedure for setting up, testing, and running the work so that the performance can be reliably reproduced.
-- **AI involvement** — if AI was used, describe how it was used and how it contributed to the project.
